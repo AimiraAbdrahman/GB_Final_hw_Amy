@@ -1,0 +1,15 @@
+/Users/amy/Documents/GeekBrains/Final_hw/obj/Debug/net8.0/Final_hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amy/Documents/GeekBrains/Final_hw/obj/Debug/net8.0/Final_hw.AssemblyInfoInputs.cache
+/Users/amy/Documents/GeekBrains/Final_hw/obj/Debug/net8.0/Final_hw.AssemblyInfo.cs
+/Users/amy/Documents/GeekBrains/Final_hw/obj/Debug/net8.0/Final_hw.csproj.CoreCompileInputs.cache
+/Users/amy/Documents/GeekBrains/Final_hw/obj/Debug/net8.0/Final_hw.sourcelink.json
+/Users/amy/Documents/GeekBrains/Final_hw/bin/Debug/net8.0/Final_hw
+/Users/amy/Documents/GeekBrains/Final_hw/bin/Debug/net8.0/Final_hw.deps.json
+/Users/amy/Documents/GeekBrains/Final_hw/bin/Debug/net8.0/Final_hw.runtimeconfig.json
+/Users/amy/Documents/GeekBrains/Final_hw/bin/Debug/net8.0/Final_hw.dll
+/Users/amy/Documents/GeekBrains/Final_hw/bin/Debug/net8.0/Final_hw.pdb
+/Users/amy/Documents/GeekBrains/Final_hw/obj/Debug/net8.0/Final_hw.dll
+/Users/amy/Documents/GeekBrains/Final_hw/obj/Debug/net8.0/refint/Final_hw.dll
+/Users/amy/Documents/GeekBrains/Final_hw/obj/Debug/net8.0/Final_hw.pdb
+/Users/amy/Documents/GeekBrains/Final_hw/obj/Debug/net8.0/Final_hw.genruntimeconfig.cache
+/Users/amy/Documents/GeekBrains/Final_hw/obj/Debug/net8.0/ref/Final_hw.dll
