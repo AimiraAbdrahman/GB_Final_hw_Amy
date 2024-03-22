@@ -2,9 +2,10 @@
 {
 string[] InitialArray = input.Split(" ");
 string[] FinalArray = new string[InitialArray.Length];
+int N = 3;
 for (int i = 0; i < InitialArray.Length; i++)
 {
-if (InitialArray[i].Length <= 3)
+if (InitialArray[i].Length <= N)
 {
 FinalArray[i] = InitialArray[i];
 }
