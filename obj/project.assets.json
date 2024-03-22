@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amy/Documents/GeekBrains/Final_hw/Final_hw.csproj",
+      "projectUniqueName": "/Users/amy/Desktop/GeekBrains/Final_hw/Final_hw.csproj",
       "projectName": "Final_hw",
-      "projectPath": "/Users/amy/Documents/GeekBrains/Final_hw/Final_hw.csproj",
+      "projectPath": "/Users/amy/Desktop/GeekBrains/Final_hw/Final_hw.csproj",
       "packagesPath": "/Users/amy/.nuget/packages/",
-      "outputPath": "/Users/amy/Documents/GeekBrains/Final_hw/obj/",
+      "outputPath": "/Users/amy/Desktop/GeekBrains/Final_hw/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/amy/.nuget/NuGet/NuGet.Config"
